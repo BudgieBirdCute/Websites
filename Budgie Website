@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {
+    margin: 0;
+}
+ul {
+  padding: 0;
+  margin-top:10px;
+  width: 100%;
+}
+li {
+  display: inline;
+}
+a {
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 1%;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+  width:31%;
+  color: rgb(0, 0, 0);
+  background-color: rgb(0, 128, 128);
+}
+a:hover {
+  background: rgb(0, 110, 110);
+}
+body {
+    background-color: rgb(253, 255, 136); 53, 255, 83
+
+
+
+
+
+}
+#HeadOfPage {
+	background-color: rgb(53, 83, 255);
+	font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+color: Purple
+
+}
+p {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;  
+font-size: 18px;
+text-align: left;
+}
+h2{
+font-size: 25px;
+text-align: "left";
+ font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+#Imgs {
+ background-color: rgb(53, 255, 83);
+}
+#Links {
+font-size:25px;
+color: rgb(0, 255, 255);
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+}
+#FooterOfWeb {
+     background-color: rgb(255, 83, 53); 
+font-family: 'Verdana, -apple-system,san-serif';
+text-align: center;
+align-items: center;
+align-content: center;
+}
+</style>
+    <div id="HeadOfPage">
+<h6 align="center"  font-family: Verdana, Geneva, Tahoma, sans-serif; >Header</h1>
+<h1 align="center"  font-family: Verdana, Geneva, Tahoma, sans-serif; >Welcome To The Budgie Website</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yoYnevMnFlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<hr>
+<p style="color:blue;" align="center">Welcome to the Budgie Website.</p>
+
+<p style="color:green;" align="center">Say Hi To Hilo And Soul.</p>
+
+<p style="color:orange;" align="center">They're My Budgies.</p>
+
+<h2 style="color:pink" align="left">Budgies are cute</h2>
+
+<p title="Budgie" style="color:red">Welcome To The Budgie Website :)</p>
+<audio src="https://ia803103.us.archive.org/0/items/BudgieSounds/Budgie%20Sounds%201.mp3" controls [b]loop[/b]>
+  Audio not supported
+</audio>
+<p style="color:cyan">Did you click it,Weren't the Tweets lovely</p>
+<hr>
+</div>
+<div id="Imgs">
+<h2 style="color:red">Budgie Images</h2>
+<img src="https://th.bing.com/th/id/OIP.WsAPceG2YWjwjzXqao8JDAHaLI?pid=ImgDet&rs=1"> </img>
+<img src="https://i.ebayimg.com/00/s/ODAwWDY0MA==/z/9esAAOSwmoNfS49q/$_86.PNG" > </img>
+<img src="https://external-preview.redd.it/C4sMjChiSh_NhEbis8q9_Gpitf64C3tpVgiQmHdW4BA.jpg?auto=webp&s=ccb7447c82f932bf6b9527f392bfc85012393d42"></img>
+<img src="https://d2zp5xs5cp8zlg.cloudfront.net/image-56110-800.jpg" > </img>
+</div>
+<hr>
+<div id="FooterOfWeb">
+<footer>
+<h1 align="center">Footer<h1>
+<h2>Budgie Questions</h2>
+<form>
+<label for="Bird">What's your Birds Name:</label>
+<input type="text" id="Bird" placeholder="Bird">
+</form>
+<form>
+<h2>Select Your Budgie Colour<h2>
+  <select>
+    <option>Yellow</option>
+    <option>Green</option>
+    <option>Blue</option>
+	<option>Other</option>
+  </select>
+</form>
+<hr>
+<h2 style="color:blue">Special Links<h2>
+    <div id="Links">
+		 <li>
+                <a href="https://web.roblox.com/users/2029333090/profile"> My Roblox Account</a>
+            </li>
+            <li> 
+                <a href="https://www.youtube.com/@BudgieTheBest/videos"> My Channel</a>
+            </li>
+		<li>
+		<a href="https://www.sololearn.com/profile/28104622">My Sololearn Account</a>
+		</li>
+		<br>
+		<br>
+		<li>
+		<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=Rioandareeb@gmail.com">Send Me A Gmail</a>
+		</li>
+    </div>
+	<hr>
+	<h2>Comments</h2>
+	<textarea id="Type In Your Comments if you have any">
+
+	</textarea><input type="reset" value="Reset">
+	<hr>
+	<h2>Rate Our Website</h2>
+
+	<select>
+	 <option>0</option>
+    	<option>1</option>
+    	<option>2</option>
+	<option>3</option>
+	 <option>4</option>
+   	 <option>5</option>
+ 	   <option>6</option>
+		<option>7</option> 
+	 <option>8</option>
+ 	   <option>9</option>
+ 	   <option>10</option>
+	
+	</select> 
+	<hr>
+	<p style="color:yellow" id="copyright">Copyright &copy; Areeb Islam</p>
+	</footer>
+    </div>
+	</ul>
+	</body>
+	</html>
