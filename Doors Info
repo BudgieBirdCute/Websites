@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Doors Hotel</title>
+	</head>
+	<style>
+body {
+background-color: rgb(70, 12, 12);	
+}
+h1 {
+    color: rgb(165, 70, 70);
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-weight: 100;
+    font-variant: small-caps;
+}
+p {
+   color: rgb(122, 51, 51);
+    text-align: center;
+    font-size: 18px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    font-variant: small-caps; 
+}
+	</style>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Doors Hotel</title>
+	</head>
+	<body>
+        <center>
+		<h1>Doors</h1>
+        <img src="https://tr.rbxcdn.com/92773a0682699d1e4abef2cfb3eb0798/768/432/Image/Png" height="200" width="300"></img>
+        <p>Doors is a game on the platform called roblox that managed to become one of the most popular games in less than a year(of being open to the public).It contains 100 doors with a chance of a monster to spawn in each room, Your main goal is to make it to the end of the game(door 100) without dying to all the monsters.<p>
+            <p>some of the few main monsters(entities) that are commonly known about are rush, screech, figure, seek, eyes, ambush, halt, and dupe keep in mind these are only a few of the entities in the roblox game doors</p> 
+            <p>All these entities have different mechanics and ways to end you.Some force you to look at it, some kill you if you look at it, some even try to kill you if you make a sound.some of these entities are just pictures but some are 3D figures.Some 2D entities are halt, ambush, rush and dupe.Some 3D ones are screech, figure, seek, and timothy(the spider)</p> 
+            <b>Here's What They look like</b>
+            <br>
+            <img src="https://progameguides.com/wp-content/uploads/2022/08/Roblox-Doors-Rush-Image.jpg?resize=1024%2C576" height="300" width="600"></img>
+            <br>
+            <i>Rush</i>
+            <br>
+             <img src="https://i.ytimg.com/vi/d9bDIONPRWo/maxresdefault.jpg" height="300" width="600"></img>
+             <br>
+             <i>Eyes</i>
+             <p>So now that you've seen most of the game we should talk about the history of this fine game</p>
+        </center>
+	</body>
+</html>
